@@ -4,7 +4,7 @@ This flutter Challenge is develop IU splash screen, login screen, validation fie
 
 ## Getting Started
 
-1. clone
+1. git clone this project
 2. cd to this project
 3. run "flutter clean && flutter pub get"
 4. run "flutter run"
