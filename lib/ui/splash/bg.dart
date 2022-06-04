@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_challenge/constants/style_constant.dart';
 
 class Background extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       resizeToAvoidBottomInset: false,
-      backgroundColor: Colors.white,
+      backgroundColor: whiteColor,
       body: Column(
         children: <Widget>[
           ImgHeaderSplash(),

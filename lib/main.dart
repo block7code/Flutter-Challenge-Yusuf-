@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_challenge/constants/text.dart';
-import 'package:flutter_challenge/ui/login/login-screen.dart';
 import 'package:flutter_challenge/ui/splash/splash-screen.dart';
 import 'constants/style_constant.dart';
 

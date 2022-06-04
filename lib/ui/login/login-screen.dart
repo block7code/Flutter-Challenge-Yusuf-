@@ -122,7 +122,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   onPressed: _login,
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(80.0)),
-                  textColor: Colors.white,
+                  textColor: whiteColor,
                   padding: const EdgeInsets.all(0),
                   child: Container(
                     alignment: Alignment.center,
